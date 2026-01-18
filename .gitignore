@@ -1,0 +1,48 @@
+# Scala & SBT
+*.class
+*.log
+target/
+project/target/
+project/project/
+.bsp
+.scala-build
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.scala_dependencies
+.worksheet
+.cache
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+.metals/
+.bloop/
+metals.sbt
+
+# Mac
+.DS_Store
+
+# Compiled files
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+*.log
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~
